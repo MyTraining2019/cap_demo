@@ -9,6 +9,7 @@ public class SalesClass {
 		for(int i:mydata){
 			sum+=i;
 			System.out.println(i);
+			sum=sum+500;
 		}
 		
 		System.out.println("Sum Value:" + sum);
