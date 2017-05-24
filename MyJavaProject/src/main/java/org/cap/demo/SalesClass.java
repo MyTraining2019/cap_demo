@@ -9,7 +9,7 @@ public class SalesClass {
 		
 			sum+=i;
 			System.out.println(i);
-			sum=sum+500;
+			sum=sum+1000;
 		}
 		
 		System.out.println("Sum Value:" + sum);
