@@ -5,8 +5,8 @@ public class SalesClass {
 	
 	public void show(){
 		int sum=0;
-		//for(int i=0;i<mydata.length;i++){
-		for(int i:mydata){
+		for(int i=0;i<mydata.length;i++){
+		
 			sum+=i;
 			System.out.println(i);
 		}
