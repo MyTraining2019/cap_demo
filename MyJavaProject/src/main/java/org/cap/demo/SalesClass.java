@@ -7,7 +7,7 @@ public class SalesClass {
 		int sum=0;
 		for(int i=0;i<mydata.length;i++){
 		
-			sum+=i+50;
+			sum+=i-50;
 			System.out.println(sum);
 			System.out.println(i);
 			sum=sum+1000;
