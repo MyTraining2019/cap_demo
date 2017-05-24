@@ -10,6 +10,7 @@ public class SalesClass {
 			sum+=i+50;
 			System.out.println(sum);
 			System.out.println(i);
+			sum=sum+1000;
 		}
 		
 		System.out.println("Sum Value:" + sum);
