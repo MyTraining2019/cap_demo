@@ -11,7 +11,7 @@ public class SalesClass {
 			System.out.println(i);
 		}
 		
-		System.out.println(sum);
+		System.out.println("Sum Value:" + sum);
 	}
 
 }
