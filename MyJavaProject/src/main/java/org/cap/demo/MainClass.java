@@ -11,7 +11,7 @@ public class MainClass {
 	
 	public static void main(String[] args) {
 		display();
-		
+		display();
 		SalesClass class1=new SalesClass();
 		class1.show();
 	}
